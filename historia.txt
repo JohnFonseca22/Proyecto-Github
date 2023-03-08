@@ -1,4 +1,5 @@
 comienzo de una pagina web
 
-eesto con el fin de aprender un mejor lenguaje.
+esto con el fin de aprender de ser un mejor programador.
+
 
