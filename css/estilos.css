@@ -1,7 +1,22 @@
 body 
 {
-    text-align:center ;
-    color:brown;     
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+    text-align:left ;
+    color:rgb(21, 21, 22);     
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#container
+
+{
+width: 75%;
+padding:  1em;
+text-align: left;
+border: 1px solid coral;
+margin: 0 auto;
+
+}
+
+#container h1
+{
+    font-size: 20px;
 }

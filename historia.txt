@@ -1,7 +1,4 @@
 comienzo de una pagina web
 
-esto con el fin de aprender un mejor lenguaje.
-
-estamos iniciando un nuevo lenguaje de programacion.
-
+eesto con el fin de aprender un mejor lenguaje.
 
